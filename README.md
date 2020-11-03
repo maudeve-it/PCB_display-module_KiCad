@@ -1,7 +1,7 @@
 
 
 
-<img src="https://github.com/maudeve-it/PCB_display-module_KiCad/blob/main/display.png" width="633" height="428">
+<img src="https://github.com/maudeve-it/PCB_display-module_KiCad/blob/main/display.png" width="633" height="466">
 
 
 
