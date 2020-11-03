@@ -1,3 +1,11 @@
+
+
+
+<img src="https://github.com/maudeve-it/PCB_display-module_KiCad/blob/main/display.png" width="633" height="428">
+
+
+
+
 # Display Module PCB (KiCad)
 
 Here are all the file you need to open/edit the KiCad shematic design and the PCB design sheets for the display module of "The GSM Gate Opener".
