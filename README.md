@@ -11,7 +11,7 @@ _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**
 
 # Display Module PCB (KiCad)
 
-Here are all the file you need to open/edit the KiCad shematic design and the PCB design sheets for the display module of "The GSM Gate Opener".
+Here are all the files about the KiCad wiring diagram and the PCB design for the display module of "The GSM Gate Opener".
 
 I included also library for shematics and footprints for two new-designed items but they are not used in this module. Refer to https://github.com/maudeve-it/PCB_base-module_KiCad
 
