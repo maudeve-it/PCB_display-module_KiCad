@@ -3,8 +3,11 @@
 
 <img src="https://github.com/maudeve-it/PCB_display-module_KiCad/blob/main/display.png" width="436" height="321">
 
+<br><br>
 
+_**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**_
 
+<br><br>
 
 # Display Module PCB (KiCad)
 
